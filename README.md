@@ -16,8 +16,8 @@ There's many variables such as
 
 <pre>
 {
-    BOT_TOKEN: bot's token
-    BOT_OWNER_ID: your id
+    BOT_TOKEN: MTU3MjE4MjczODM2NTA2MzMwMQ.GJiRTg.sbrwACyGyD4tnQmR7z2lYGrnvh2_3Mtbi_SwHM
+    BOT_OWNER_ID: 1401839510781693976
 
     MASS_BAN: true or false
 
